@@ -7,7 +7,7 @@ import pandas as pd  # Thêm thư viện pandas
 # ==================== PHẦN CẤU HÌNH ====================
 # 1. Dán API Key của thầy/cô vào giữa hai dấu nháy đơn.
 #    Ví dụ: GOOGLE_API_KEY = 'AbCdEfGhIjKlMnOpQrStUvWxYz'
-GOOGLE_API_KEY = 'AIzaSyC6_UlF2oCCEbGgRrHChZ3TWMURxuRpc8Q' # Thay YOUR_API_KEY bằng key của bạn
+GOOGLE_API_KEY = 'YOUR_API_KEY' # Thay YOUR_API_KEY bằng key của bạn
 
 # 2. Tên các thư mục đã tạo ở Bước 1.
 #    Thầy/cô có thể đổi tên nếu muốn.
